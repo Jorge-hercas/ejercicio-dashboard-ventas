@@ -365,7 +365,7 @@ function(input, output, session) {
         center = c(0, 20),
         maxZoom = 7,
         zoom = 1.5,
-        token = "pk.eyJ1Ijoiam9yZ2VoZGV6MTk5OCIsImEiOiJja2o2dnZzdmowemRsMzNueW5zNmJ6ZmdoIn0.s3BJeDpXW5GMy2Kln139Eg",
+        token = "xxxxxxxxxxxxxxxxxxxxxxxxxxx",
         style = style
       ) |>
       add_circle_layer(
